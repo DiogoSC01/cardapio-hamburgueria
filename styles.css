@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #ffa500;
+    width: 100vw;
+    height: 40px;
+    
+}
+
+.logo-empresa {
+    width: 30px;
+    position: absolute;
+    top: 6px;
+    right: 364px;
+    bottom: 6.09px;
+    left: 11px;
+}
+
+.logo-carrinho {
+    width: 35px;
+    position: absolute;
+    top: 3px;
+    right: 10px;
+    bottom: 2.78px;
+    left: 367px;
+}
+
+.links-catalogo {
+    font-size: 16px;
+    position: relative;
+    left: 110px;
+    padding:5px;
+    
+}
