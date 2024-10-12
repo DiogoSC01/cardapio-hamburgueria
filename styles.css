@@ -36,5 +36,24 @@ nav {
 }
 
 .banner {
-
+ width: 100vw;
+ height: 141px;
+ background-color: #F9C15B;
+ font-size: 25px;
+ display: flex;
+ align-items: center;
+ text-align: center;
 }
+
+.mais-pedidos {
+    background-color: black;
+    width: 100vw;
+    height: 41px;
+}
+ .titulo-1 p {
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+ }
